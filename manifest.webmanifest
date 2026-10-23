@@ -1,0 +1,24 @@
+{
+  "name": "Parc Auto — Échéances",
+  "short_name": "Parc Auto",
+  "lang": "fr-CI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#17365d",
+  "description": "Suivi des échéances des documents et de la maintenance du parc automobile.",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
